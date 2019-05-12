@@ -81,7 +81,7 @@ DATABASES = {
     #    'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
         'NAME': 'portfoliodb',
         'USER': 'postgres',
-        'PASSWORD': 'Topdog1',
+        'PASSWORD': 'DBman',
         'HOST': 'localhost',
         '/PORT': '5432',
     }
